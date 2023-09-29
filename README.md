@@ -1,2 +1,2 @@
-# split-pane
+# dndkit-poc
 Created with CodeSandbox
